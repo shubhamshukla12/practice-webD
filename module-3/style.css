@@ -6,12 +6,12 @@
 .navbar{
 
 border: none;
-background-color: black;
+background-color: lightyellow;
 color: #61122F;
 }
 body{
 	background-color: #61122F;
-	color: white;
+	color: mintcream;
 }
 .glyphicon{
 	font-size: 30px;
@@ -26,14 +26,23 @@ body{
 .container
 {
 	background-color: grey;
+	position: relative;
 }
 .text-center{
 	font-size: 30px;
 }
+h1{
+	color: darkred;
+	background-color: ghostwhite;
+}
 
 h2{
 	text-align: center;
+	font-weight: bold;
+	background-color: lightcoral;
+	color: mediumpurple;
 }
+
 #myNavbar ul li a {
 	color: #61122F;
 }
